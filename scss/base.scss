@@ -1,0 +1,72 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  
+  html {
+    font-size: 15px;
+  }
+  
+  body {
+    font-size: 1.6rem;
+    font-family: 'Lato';
+    color: #777;
+  }
+
+.section-1 {
+    background-image: url(/2h/bg/Placebg.png);
+    width: 100%;
+    height: 140vh;
+    background-size: cover;
+    .bgs {
+        position: absolute;
+        left: 0;
+        top: 89px;
+    }
+    .navi-box {
+        position: absolute;
+        margin-top: 86px;  
+        width: 100%;  
+.list {
+display: flex;
+justify-content: center;
+        .list-item {
+            text-transform: uppercase;
+            list-style-type: none;
+            padding: 40px;
+            color: white;
+            font-size: 20px;
+        }
+    }
+    .logo {
+        position: absolute;
+        left: 50%;
+        top: 10%;
+    }
+    }
+    
+}
+.section-2 {
+    background-image: url(/2h/bg/Placsdgsdhsfon.png);
+    width: 100%;
+    height: 140vh;
+    background-size: cover;
+ .block {
+     padding: 384px 79px ;
+     width: 50%;
+     h1 {
+         text-align: center;
+         font-size: 60px;
+     }
+     p {
+         font-size: 21px;
+         text-align: center;
+.button {
+    color: yellow;
+}
+     }
+ }
+}
